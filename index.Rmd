@@ -1,0 +1,373 @@
+---
+title       : Chapter 4 Crimes and Social Controls
+subtitle    : Study Guide for Soc 306
+author      : Sherri Verdugo
+job         : Instructor, CSUF
+framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : reveal.js  # {highlight.js, prettify, highlight}
+theme       : swiss
+hitheme     : solarized_light      # 
+widgets     : [mathjax, quiz, bootstrap]  # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+# Slides for Chapter 4
+
+#### Chapter 4 Crimes and Social Controls Study Guide for Soc 306
+
+#### Author: Sherri Verdugo
+
+#### Instructor, CSUF
+
+--- .class #title
+
+## Chapter Outline
+
+4.1 The Global Context: International Crime and Social Control
+
+4.2 Sources of Crime Statistics
+
+4.3 Sociological Theories of Crime
+
+4.4 Types of Crime
+
+4.5 Demographic Patterns of Crime
+
+4.6 The Societal Costs of Crime and Social Control
+
+4.7 Strategies for Action: Crime and Social Control
+
+4.8 Understanding Crime and Social Control
+
+4.9  Key Terms
+
+--- .class #chout
+
+## 4.1 The Global Context: International Crime and Social Control
+
+Several facts about crime throughout the world:
+
+* There is no country without crime.
+* Most countries have the same components in their criminal justice systems: police, courts, and prisons.
+* Adult males make up the largest category of crime suspects.
+* In all countries theft is the most common crime committed and violent crime is a relatively rare event.
+
+--- .class #gc1 
+
+## 4.1 The Global Context: International Crime and Social Control
+
+In 2010, globally, there were over 450,000 homicides:
+
+1. About 1/3 are estimated to have occurred in Africa
+2. 1/3 are estimated to have occurred in the Americas
+3. And 1/3 in Asia, Europe, and Oceana
+
+--- .class #gc2
+
+## 4.1 The Global Context: International Crime and Social Control
+
+Crime rates, the number of particular crimes per 100,000 people in a population, take into consideration differences in population size and are more accurate.
+
+1. Countries with higher inequality tend to have higher homicide rates, 
+2. While more egalitarian countries have lower homicide rates.
+
+--- .class #gc3
+
+## 4.1 The Global Context: International Crime and Social Control
+
+* **Transnational crime:** 
+
+As defined by the U.S. Department of Justice, **transnational crime** is “organized criminal activity across one or more national borders” (U.S. Department of Justice 2003). 
+
+Examples                    | Examples
+----------------------------|---------------------------------
+Internet child pornography  | Human trafficking
+Sex trafficking             | Labor and services
+
+--- .class #gc3
+
+## 4.1 The Global Context: International Crime and Social Control
+
+A. Similarities in international crime 
+
+1.	Crime is ubiquitous (there is no country without crime).
+2.	Most countries have police, courts, and prisons.
+3.	Adult males comprise the largest category of crime suspects.
+4.	Theft is most common crime worldwide.
+5.	Violent crime is relatively rare.
+
+
+--- .class #gc4
+
+## 4.1 The Global Context: International Crime and Social Control
+
+B.  Differences in international crime rates
+
+1.	Dramatic differences exist in international crime rates, although comparisons are made difficult by variations in measurement and crime definitions.
+
+
+--- .class #gc5
+
+## 4.1 The Global Context: International Crime and Social Control
+
+C.  Global priority areas
+
+1.	Global priority areas: drugs and criminal organizations (e.g., drug trafficking); financial and high tech crimes (e.g., counterfeiting, fraud, and cyber-crime); tracing fugitives; countering terrorism; trafficking human beings; fighting corruption 
+2.	Each priority area contains a relatively new category of crimes—transnational crime, defined as organized criminal activity across one or more national borders (e.g., Internet child pornography; human trafficking). 
+
+
+--- .class #gc6
+
+## 4.2 Sources of Crime Statistics
+
+### What is Crime?
+
+A violation of a federal, state or local criminal law. The three major types of statistics used to measure crime are: 
+
+1. official statistics
+
+2. victimization surveys
+
+3. self-report offender surveys. 
+
+--- .class #sources1
+
+## 4.2 Sources of Crime Statistics: Official Statistics
+
+The Uniform Crime Report – Annually compiled by the FBI:
+
+FBI compiles reported crimes and arrests annually and publishes them in the Uniform Crime Reports (UCR), which lists:  
+ 
+1. Crime rates (number of crimes per 100,000 population)
+2. Actual number of crimes
+3. Percentage of change over time : Clearance Rate
+
+--- .class #sources2
+
+## 4.2 Sources of Crime Statistics: Problems of Official Statistics
+
+1.	Many crimes are not reported to police.
+2.	Incorrect recordings.
+3.	Motivations for distorting crime statistics come from the public, political officials, and organizational pressures (e.g., police may “crack down” on certain crimes in election year).
+
+--- .class #sources3
+
+## 4.2 Sources of Crime Statistics: Victamization Surveys
+
+1.	The National Crime Victimization Survey, begun in 1973 and conducted annually by the U.S. Department of Justice, interviews over 135,000 people about their experiences as victims of crime.
+2.	Interviewers collect information on demographic characteristics of crime victims; relationship to offender; and extent to which victim was harmed.
+3.	Victimization surveys provide more information on victims than offenders. 
+		
+*	In 2011: 508 million violent crimes and 1547.1 million property crimes    
+
+--- .class #sources4
+
+## 4.2 Sources of Crime Statistics: Self-Report Offender Surveys
+     	
+1. 	Ask offenders about their criminal behavior.
+2. 	Sample may be known offenders or the general population.
+3.	Self-report surveys reveal virtually every adult has engaged in some type of criminal behavior, but only a small proportion of the total population of law violators is ever convicted of a crime.
+4. 	May still be subject to exaggeration and concealment. 
+
+--- .class #sources5
+
+## 4.3 Sociological Theories of Crime: Structural-Functionalist
+
+According to Durkheim and other functionalists, crime can have the following functions for society:
+
+* Strengthens group cohesion and can lead to social change
+
+Structural functionalist is a perspective and not a theory of crime.  There are three functionalist theories of crime:
+
+* Merton’s Strain Theory
+* Subcultural Theories
+* Control Theories:
+    * attachment, commitment, involvement, belief
+
+--- .class #theories
+
+## 4.3 Sociological Theories of Crime: Conflict
+
+* Social inequality leads to crimes as means of economic survival.
+* Those in power define what is criminal.
+* Law enforcement penalizes those without power and benefits those with power.
+
+
+--- .class #theories2
+
+## 4.3 Sociological Theories of Crime: Symbolic Interactionist 
+
+* Labeling theory
+* Primary and secondary deviance
+
+1. The person who is labeled as deviant is often denied opportunities for engaging in non-deviant behavior
+2. The labeled person internalizes the deviant label, adopts a deviant self-concept, and acts accordingly.
+
+--- .class #theories2
+
+## 4.4 Types of Crime
+
+* Index offenses (street crimes)
+* Violent crime
+* Property crime
+* Vice crime
+* Organized crime
+* White-collar crime
+* Computer crime 
+* Juvenile delinquency
+
+--- .class #types
+
+## 4.5 Demographic Patterns of Crime
+
+* It is a universal truth that women everywhere are less likely to commit crime than men.
+* In 2011, males accounted for 73.8 percent of all arrests, 80.1 percent of all arrests for violent crime, and 62.6 percent of all arrests for property crimes.
+* Feminist criminology focuses on how the subordinate position of women in society affects their criminal behavior and victimization.
+* In general, criminal activity is more prevalent among younger people than among older people. 
+* Race is a factor in who gets arrested. Minorities are disproportionately represented in official statistics. 
+
+--- .class #demo
+
+## 4.6 The Societal Costs of Crime and Social Control
+
+* Crime often results in physical injury and loss of life.
+* Moreover, the U.S. Public Health Service now defines violence as one of the top health concerns facing Americans.
+* Conklin's Six Economic Costs
+    * Direct losses from crime
+    * Transferring of property
+    * Criminal violence
+    * Illegal expenditures
+    * Prevention and protection
+    * Controlling crime
+* Costs include psychological and economic
+
+--- .class #costs
+
+## 4.7 Strategies for Action: Crime and Social Control
+
+* Local initiatives: youth and community programs
+* Criminal Justice Policies: deterrence
+* Legislative
+
+--- .class #strategies 
+
+## 4.8 Understanding Crime and Social Control
+
+* Multilevel problem
+* Multinational problem
+* Multi-disciplinary problem
+*  Support exists for both a functionalist and conflict approach to crime
+*	Recent declines in crime should not be taken as support for “get tough” approaches as there are other, more valid, explanations.
+*	Some advocate for increased prevention and restorative justice because of their effectiveness in reducing future crimes.
+
+--- .class #understanding
+
+## 4.10 Key Concepts
+
+* Acquaintance Rape, pg. 108
+    * Rape committed by someone known to the victim.
+* Breeding Ground Hypothesis, pg. 128  
+    * A hypothesis that argues that incarceration serves to increase criminal behavior through the transmission of criminal skills, techniques, and motivations.
+* Capital Punishment, pg. 132	
+    * The state (the federal government or state) takes the life of a person as punishment for a crime.
+
+--- .class #id
+
+## 4.10 Key Concepts, continued
+
+* Classic Rape, pg. 108		
+    * Rape committed by a stranger, with the use of a weapon, resulting in serious bodily injury to the victim.
+* Clearance Rate, pg. 102	
+    * The percentage of crimes in which an arrest and official charge have been made and the case has been turned over to the courts.
+* Computer Crime, pg. 113		
+    * Any violation of the law in which a computer is the target or means of criminal activity.
+
+--- .class #id
+
+## 4.10 Key Concepts, continued
+
+* Corporate Violence, pg. 113	
+    * The production of unsafe products and the failure of corporations to provide a safe working environment for their employees.
+* Crime, pg. 101	
+    * An act, or the omission of an act, that is a violation of a federal, state, or local criminal law for which the state can apply sanctions.
+* Crime Rate, pg. 102		
+    * The number of crimes committed per 100,000 population.
+
+--- .class #id
+
+## 4.10 Key Concepts, continued
+
+* Deterrence, pg. 126	
+    * The use of harm or the threat of harm to prevent unwanted behaviors.
+* Feminist Criminology, pg. 116
+    * An approach that focuses on how the subordinate position of women in society affects their criminal behavior and victimization.
+* Identity Theft, pg. 113
+    * The use of someone else's identification (e.g. Social Security Number, birthdate, or other personal information) to obtain credit or other economic rewards.
+
+--- .class #id
+
+## 4.10 Key Concepts, continued
+
+* Incapacitation, pg. 128
+    * A criminal justice philosophy that argues that recidivism can be reduced by placing offenders in prison so that they are unable to commit further crimes against the general public.
+* Index Offenses, pg. 107
+    * Crimes identified by the FBI as the most serious, including personal or violent crimes (homicide, assault, rape, and robbery) and property crimes (larceny, motor vehicle theft, burglary, and arson).
+* INTERPOL, pg. 136
+    * The largest international police organization in the world.
+
+--- .class #id
+
+## 4.10 Key Concepts, continued
+
+* Insider Trading, pg. 112
+    * The use of privileged (i.e., nonpublic) information by an employee of an organization that gives that employee an unfair advantage in buying, selling, and trading stocks or other securities.
+* Larceny, pg. 109
+    * Larceny is simple theft; it does not entail force or the use of force, or breaking and entering.
+* Organized Crime, pg. 111
+    * Criminal activity conducted by members of a hierarchically arranged structure devoted primarily to making money through illegal means.
+
+--- .class #id
+
+## 4.10 Key Concepts, continued
+
+* Parole, pg. 129
+    * Parole entails release from prison, for a specific time period and subject to certain conditions, before the inmate's sentence is finished.
+* Primary Deviance, pg. 106
+    * Deviant behavior committed before a person is caught and labeled an offender.
+* Probation, pg. 129
+    * The conditional release of an offender who, for a specific time period and subject to certain conditions, before the inmate's sentence is finished.
+
+--- .class #id
+
+## 4.10 Key Concepts, continued
+
+* Racial Profiling, pg. 117
+    * The law enforcement practice of targeting suspects on the basis of race.
+* Recidivism, pg. 127
+    * A return to criminal behavior by a former inmate, most often measured by rearrest, reconviction, reincarceration.
+* Rehabilitation, pg. 128  
+    * A criminal justice philosophy that argues that recidivism can be reduced by changing the criminal through such programs as substance abuse counseling, job training, education, and so on.
+
+--- .class #id
+
+## 4.10 Key Concepts, continued
+
+* Restorative Justice, pg. 132
+    * A philosophy primarily concerned with reconciling conflict between the victim, the offender, and the community.
+* Secondary Deviance, pg. 106
+    * Deviant behavior that results from being caught and labeled as an offender.
+* Transnational Crime, pg. 100
+    * Criminal activity that occurs across one or more national borders.
+
+--- .class #id
+
+## 4.10 Key Concepts, continued
+
+* Victimless Crime, pg. 110
+    * Illegal activities that no complaining participant(s) and are often thought of as crimes against morality, such as prostitution.
+* White-Collar Crime, pg. 112
+    * Includes both occupational crime, in which individuals commit crimes in the course of their employment, and corporate crime in which corporations violate the law in the interest of maximizing profits.
+
+
+
